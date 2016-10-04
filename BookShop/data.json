@@ -1,0 +1,78 @@
+[
+ {
+    "category": "programming_book",
+    "name": "Objective-C Programming Language",
+    "price": 100,
+    "barcode": "123321",
+    "number_of_pages": 500,
+    "programming_language": "Objective-C"
+ },
+ {
+    "category": "cookery_book",
+    "name": "Cookery Book",
+    "price": 200,
+    "barcode": "123312121",
+    "number_of_pages": 400,
+    "main_ingredient": "popato"
+ },
+ {
+    "category": "esoteric_book",
+    "name": "Esoteric Book",
+    "price": 100,
+    "barcode": "312121",
+    "number_of_pages": 200,
+    "minimal_age": 18
+ },
+ {
+    "category": "programming_book",
+    "name": "C Sharp Programming Language",
+    "price": 200,
+    "barcode": "12332111111",
+    "number_of_pages": 700,
+    "programming_language": "C Sharp"
+ },
+ {
+    "category": "cookery_book",
+    "name": "Recipes",
+    "price": 200,
+    "barcode": "123",
+    "number_of_pages": 200,
+    "main_ingredient": "popato"
+ },
+ {
+    "category": "esoteric_book",
+    "name": "Some Esoteric Book",
+    "price": 10,
+    "barcode": "000312121",
+    "number_of_pages": 100,
+    "minimal_age": 18
+ },
+ {
+    "category": "CD",
+    "name": "CD 1",
+    "price": 100,
+    "barcode": "4442121",
+    "content": "music"
+ },
+ {
+    "category": "DVD",
+    "name": "DVD 1",
+    "price": 102,
+    "barcode": "446642121",
+    "content": "video"
+ },
+ {
+    "category": "CD",
+    "name": "CD 2",
+    "price": 1032,
+    "barcode": "446642121",
+    "content": "software"
+ },
+ {
+    "category": "DVD",
+    "name": "DVD 2",
+    "price": 102232,
+    "barcode": "44664",
+    "content": "software"
+ }
+ ]
